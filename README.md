@@ -1,4 +1,4 @@
-# Md Mahfuz Rahman Nirob | Portfolio
+# Mahfuz Nirob | Portfolio
 
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS.
 
