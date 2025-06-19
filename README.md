@@ -1,4 +1,4 @@
-# Ayush Sharma | Portfolio
+# Md Mahfuz Rahman Nirob | Portfolio
 
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS.
 
