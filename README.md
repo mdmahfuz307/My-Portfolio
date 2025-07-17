@@ -118,3 +118,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
 - [tsParticles](https://particles.js.org/)
+
+**Credit By:** [@Ayush Sharma](https://github.com/cyberboyayush)
