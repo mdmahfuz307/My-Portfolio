@@ -757,7 +757,7 @@ Please fill in all fields before sending.`;
                   </div>
                   <div>
                     <div className="text-sm text-gray-400 font-medium">Phone</div>
-                    <div className="text-white font-semibold">+88 01648-500924</div>
+                    <div className="text-white font-semibold">+88 01780-581185</div>
                   </div>
                 </div>
               </div>

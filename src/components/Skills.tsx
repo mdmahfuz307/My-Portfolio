@@ -3,7 +3,7 @@
 import { useState, useRef } from 'react';
 import { motion, useInView, AnimatePresence } from 'framer-motion';
 import { SiHtml5, SiCss3, SiJavascript, SiTypescript, SiReact, 
-  SiNextdotjs, SiNodedotjs, SiMongodb, SiTailwindcss, 
+  SiNextdotjs, SiNodedotjs, SiExpress, SiMongodb, SiTailwindcss, 
   SiFirebase, SiPython, SiAmazon, SiDocker,
   SiGit, SiPostgresql, SiVercel, SiAppwrite, SiSupabase, 
   SiC, SiCplusplus, SiCloudflare } from 'react-icons/si';
@@ -15,14 +15,15 @@ const techStack = [
   { id: 'react', name: 'React', icon: SiReact, category: 'frontend' },
   // { id: 'nextjs', name: 'Next.js', icon: SiNextdotjs, category: 'frontend' },
   { id: 'javascript', name: 'JavaScript', icon: SiJavascript, category: 'frontend' },
-  // { id: 'typescript', name: 'TypeScript', icon: SiTypescript, category: 'frontend' },
+  { id: 'typescript', name: 'TypeScript', icon: SiTypescript, category: 'frontend' },
   { id: 'tailwindcss', name: 'Tailwind', icon: SiTailwindcss, category: 'frontend' },
   { id: 'html5', name: 'HTML5', icon: SiHtml5, category: 'frontend' },
   { id: 'css3', name: 'CSS3', icon: SiCss3, category: 'frontend' },
   { id: 'nodejs', name: 'Node.js', icon: SiNodedotjs, category: 'backend' },
-  { id: 'python', name: 'Python', icon: SiPython, category: 'backend' },
-  { id: 'c', name: 'C', icon: SiC, category: 'backend' },
-  // { id: 'cplusplus', name: 'C++', icon: SiCplusplus, category: 'backend' },
+  { id: 'expressjs', name: 'Express.js', icon: SiExpress, category: 'backend' },
+  { id: 'python', name: 'Python', icon: SiPython, category: 'all' },
+  { id: 'c', name: 'C', icon: SiC, category: 'all' },
+  { id: 'cplusplus', name: 'C++', icon: SiCplusplus, category: 'all' },
   { id: 'mongodb', name: 'MongoDB', icon: SiMongodb, category: 'backend' },
   // { id: 'postgresql', name: 'PostgreSQL', icon: SiPostgresql, category: 'backend' },
   { id: 'firebase', name: 'Firebase', icon: SiFirebase, category: 'backend' },

@@ -60,7 +60,7 @@ const Hero = () => {
       'Web Developer',
       'Backend Engineer',
       'Full Stack Developer',
-      'Open Source Contributor',
+      // 'Open Source Contributor',
     ],
     loop: true,
     typeSpeed: 70,
@@ -164,7 +164,7 @@ const Hero = () => {
                   </a>
                 
                   <a 
-                    href="/AyushSharmaResume.pdf" 
+                    href="/MahfuzNirobResume.pdf" 
                     className="px-6 py-3 rounded-lg bg-transparent border border-gray-700 text-white font-medium transition-all duration-300 hover:bg-white/5"
                   >
                     Download Resume
@@ -228,7 +228,7 @@ const Hero = () => {
                       </svg>
                     </div>
                     <div>
-                      <div className="font-medium text-white text-sm">18+ Projects</div>
+                      <div className="font-medium text-white text-sm">10+ Projects</div>
                       <div className="text-xs text-gray-400">Completed</div>
                     </div>
                   </div>
@@ -245,7 +245,7 @@ const Hero = () => {
                       </svg>
                     </div>
                     <div>
-                      <div className="font-medium text-white text-sm">5+ Clients</div>
+                      <div className="font-medium text-white text-sm">2+ Clients</div>
                       <div className="text-xs text-gray-400">Worldwide</div>
                     </div>
                   </div>
